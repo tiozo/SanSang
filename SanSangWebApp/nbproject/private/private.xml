@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/src/java/controllers/CheckoutController.java</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/src/java/controllers/AddToCartController.java</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/web/shopping.jsp</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/src/java/models/Order/OrderDetailDTO.java</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/web/index.jsp</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/web/orderConfirmation.jsp</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/src/java/models/Checkout/CheckoutDAO.java</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/src/java/models/Role/RoleDAO.java</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/src/java/utils/EmailUtility.java</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/src/java/controllers/UpdateCartItemController.java</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/src/java/models/Order/OrderDTO.java</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/src/java/models/Order/OrderDAO.java</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/src/java/controllers/CreateUserController.java</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/web/viewCart.jsp</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/src/java/models/Checkout/CheckoutDTO.java</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/src/java/controllers/MainController.java</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/web/checkout.jsp</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/src/java/models/User/UserDTO.java</file>
+            <file>file:/C:/Users/tiozo/Documents/NetBeansProjects/SanSangWebApp/src/java/models/Product/ProductDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
